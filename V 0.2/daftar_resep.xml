@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data_tersimpan>
+
+	<resep nama="Gado Gado" bahan="2" >
+		<bahan nama="Tempe" banyak="92" />
+		<bahan nama="Kopi" banyak="63" />
+	</resep>
+
+	<resep nama="Sate" bahan="4" >
+		<bahan nama="Kue" banyak="46" />
+		<bahan nama="Kopi" banyak="69" />
+		<bahan nama="Bawang Putih" banyak="87" />
+		<bahan nama="Bawang Merah" banyak="54" />
+	</resep>
+
+	<resep nama="Soto" bahan="1" >
+		<bahan nama="Beras" banyak="60" />
+	</resep>
+
+	<resep nama="Lodeh" bahan="7" >
+		<bahan nama="Bawang Merah" banyak="99" />
+		<bahan nama="Minyak" banyak="65" />
+		<bahan nama="Tepung" banyak="79" />
+		<bahan nama="Beras" banyak="0" />
+		<bahan nama="Gula" banyak="52" />
+		<bahan nama="Bawang Putih" banyak="84" />
+		<bahan nama="Tomat" banyak="75" />
+	</resep>
+
+	<resep nama="Kare" bahan="4" >
+		<bahan nama="Manisan" banyak="68" />
+		<bahan nama="Bawang Putih" banyak="17" />
+		<bahan nama="Minyak" banyak="98" />
+		<bahan nama="Jagung" banyak="33" />
+	</resep>
+
+	<resep nama="Pecel" bahan="8" >
+		<bahan nama="Minyak" banyak="98" />
+		<bahan nama="Bawang Merah" banyak="44" />
+		<bahan nama="Kopi" banyak="45" />
+		<bahan nama="Manisan" banyak="64" />
+		<bahan nama="Kue" banyak="80" />
+		<bahan nama="Kunyit" banyak="31" />
+		<bahan nama="Tepung" banyak="30" />
+		<bahan nama="Madu" banyak="2" />
+	</resep>
+
+	<resep nama="Urap Urap" bahan="4" >
+		<bahan nama="Manisan" banyak="17" />
+		<bahan nama="Kopi" banyak="62" />
+		<bahan nama="Bawang Merah" banyak="90" />
+		<bahan nama="Bawang Putih" banyak="85" />
+	</resep>
+
+	<resep nama="Nasi Goreng" bahan="0" />
+
+	<resep nama="Pempek" bahan="9" >
+		<bahan nama="Tempe" banyak="63" />
+		<bahan nama="Manisan" banyak="56" />
+		<bahan nama="Beras" banyak="56" />
+		<bahan nama="Minyak" banyak="80" />
+		<bahan nama="Gula" banyak="24" />
+		<bahan nama="Bawang Merah" banyak="14" />
+		<bahan nama="Kue" banyak="55" />
+		<bahan nama="Kunyit" banyak="21" />
+		<bahan nama="Tomat" banyak="35" />
+	</resep>
+
+	<resep nama="Jangan Asem" bahan="7" >
+		<bahan nama="Tempe" banyak="3" />
+		<bahan nama="Jagung" banyak="9" />
+		<bahan nama="Kunyit" banyak="12" />
+		<bahan nama="Kue" banyak="61" />
+		<bahan nama="Kopi" banyak="15" />
+		<bahan nama="Air" banyak="70" />
+		<bahan nama="Gula" banyak="94" />
+	</resep>
+
+	<resep nama="Jangan Kunci" bahan="5" >
+		<bahan nama="Madu" banyak="26" />
+		<bahan nama="Beras" banyak="24" />
+		<bahan nama="Manisan" banyak="14" />
+		<bahan nama="Kue" banyak="34" />
+		<bahan nama="Tempe" banyak="23" />
+	</resep>
+
+	<resep nama="Bali Tahu" bahan="4" >
+		<bahan nama="Air" banyak="75" />
+		<bahan nama="Kopi" banyak="85" />
+		<bahan nama="Gula" banyak="85" />
+		<bahan nama="Minyak" banyak="22" />
+	</resep>
+
+	<resep nama="Sambal Goreng Buncis" bahan="3" >
+		<bahan nama="Gula" banyak="68" />
+		<bahan nama="Kopi" banyak="10" />
+		<bahan nama="Bawang Putih" banyak="79" />
+	</resep>
+
+	<resep nama="Sambal Goreng Tempe" bahan="7" >
+		<bahan nama="Gula" banyak="10" />
+		<bahan nama="Jagung" banyak="94" />
+		<bahan nama="Air" banyak="96" />
+		<bahan nama="Kunyit" banyak="86" />
+		<bahan nama="Beras" banyak="54" />
+		<bahan nama="Kue" banyak="66" />
+		<bahan nama="Tepung" banyak="35" />
+	</resep>
+
+	<resep nama="Sarden" bahan="9" >
+		<bahan nama="Tepung" banyak="20" />
+		<bahan nama="Gula" banyak="0" />
+		<bahan nama="Bawang Putih" banyak="37" />
+		<bahan nama="Kopi" banyak="52" />
+		<bahan nama="Air" banyak="90" />
+		<bahan nama="Minyak" banyak="5" />
+		<bahan nama="Kue" banyak="96" />
+		<bahan nama="Madu" banyak="63" />
+		<bahan nama="Manisan" banyak="39" />
+	</resep>
+
+	<resep nama="Gulai Kambing" bahan="3" >
+		<bahan nama="Air" banyak="32" />
+		<bahan nama="Minyak" banyak="70" />
+		<bahan nama="Tomat" banyak="30" />
+	</resep>
+
+	<resep nama="Kripik Tempe" bahan="4" >
+		<bahan nama="Air" banyak="27" />
+		<bahan nama="Jagung" banyak="8" />
+		<bahan nama="Bawang Putih" banyak="35" />
+		<bahan nama="Tempe" banyak="26" />
+	</resep>
+
+	<resep nama="Semur Daging" bahan="2" >
+		<bahan nama="Tomat" banyak="41" />
+		<bahan nama="Manisan" banyak="21" />
+	</resep>
+
+	<resep nama="Teracam" bahan="11" >
+		<bahan nama="Bawang Merah" banyak="94" />
+		<bahan nama="Manisan" banyak="24" />
+		<bahan nama="Air" banyak="97" />
+		<bahan nama="Madu" banyak="38" />
+		<bahan nama="Tomat" banyak="89" />
+		<bahan nama="Kopi" banyak="99" />
+		<bahan nama="Kunyit" banyak="88" />
+		<bahan nama="Tepung" banyak="29" />
+		<bahan nama="Minyak" banyak="96" />
+		<bahan nama="Beras" banyak="18" />
+		<bahan nama="Tempe" banyak="33" />
+	</resep>
+
+	<resep nama="Dendeng Ragi" bahan="1" >
+		<bahan nama="Jagung" banyak="68" />
+	</resep>
+
+	<resep nama="Bistik Ayam" bahan="9" >
+		<bahan nama="Tempe" banyak="86" />
+		<bahan nama="Bawang Putih" banyak="20" />
+		<bahan nama="Minyak" banyak="6" />
+		<bahan nama="Gula" banyak="77" />
+		<bahan nama="Tepung" banyak="16" />
+		<bahan nama="Bawang Merah" banyak="26" />
+		<bahan nama="Air" banyak="16" />
+		<bahan nama="Kunyit" banyak="52" />
+		<bahan nama="Beras" banyak="2" />
+	</resep>
+
+	<resep nama="Mi Goreng Terasi" bahan="9" >
+		<bahan nama="Tempe" banyak="64" />
+		<bahan nama="Minyak" banyak="26" />
+		<bahan nama="Kopi" banyak="49" />
+		<bahan nama="Bawang Merah" banyak="71" />
+		<bahan nama="Tomat" banyak="78" />
+		<bahan nama="Jagung" banyak="2" />
+		<bahan nama="Gula" banyak="22" />
+		<bahan nama="Bawang Putih" banyak="76" />
+		<bahan nama="Kue" banyak="96" />
+	</resep>
+
+	<resep nama="Telur Mata Sapi" bahan="4" >
+		<bahan nama="Tomat" banyak="83" />
+		<bahan nama="Manisan" banyak="81" />
+		<bahan nama="Gula" banyak="61" />
+		<bahan nama="Beras" banyak="80" />
+	</resep>
+
+	<resep nama="Ayam Bakar" bahan="4" >
+		<bahan nama="Bawang Putih" banyak="17" />
+		<bahan nama="Kue" banyak="79" />
+		<bahan nama="Kopi" banyak="57" />
+		<bahan nama="Kunyit" banyak="82" />
+	</resep>
+
+	<resep nama="Gudeg" bahan="7" >
+		<bahan nama="Kopi" banyak="3" />
+		<bahan nama="Kue" banyak="96" />
+		<bahan nama="Manisan" banyak="36" />
+		<bahan nama="Bawang Merah" banyak="56" />
+		<bahan nama="Beras" banyak="52" />
+		<bahan nama="Jagung" banyak="30" />
+		<bahan nama="Air" banyak="71" />
+	</resep>
+
+	<resep nama="Ayam Panggang" bahan="9" >
+		<bahan nama="Jagung" banyak="62" />
+		<bahan nama="Manisan" banyak="15" />
+		<bahan nama="Bawang Merah" banyak="73" />
+		<bahan nama="Air" banyak="88" />
+		<bahan nama="Madu" banyak="15" />
+		<bahan nama="Minyak" banyak="19" />
+		<bahan nama="Bawang Putih" banyak="72" />
+		<bahan nama="Tempe" banyak="39" />
+		<bahan nama="Kunyit" banyak="58" />
+	</resep>
+
+	<resep nama="Otak Otak" bahan="2" >
+		<bahan nama="Jagung" banyak="50" />
+		<bahan nama="Manisan" banyak="41" />
+	</resep>
+
+</data_tersimpan>

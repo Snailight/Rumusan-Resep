@@ -1,0 +1,14 @@
+{
+      "Daging Ayam Bakar"   => ["1 Daging Ayam", "2 Kayu"                     ],
+      "Daging Kijang Bakar" => ["1 Daging Kijang", "4 Kayu"                   ],
+      "Daging Babi Bakar"   => ["1 Daging Babi", "4 Kayu"                     ],
+      "Daging Bebek Bakar"  => ["1 Daging Bebek", "2 Kayu"                    ],
+      "Daging Kelinci Bakar"=> ["1 Daging Kelinci", "1 Kayu"                  ],
+      "Daging Sapi Bakar"   => ["1 Daging Sapi", "5 Kayu"                     ],
+      "Sup Daging Ayam"     => ["2 Daging Ayam", "2 Kayu", "1 Air", "1 Bawang"],
+      "Sup Daging Sapi"     => ["1 Daging Sapi", "4 Kayu", "2 Air",
+                                "2 Bawang", "1 Tomat"                         ],
+      "Sup Jamur"           => ["1 Jamur", "2 Kayu", "1 Air", "1 Bawang",
+                                "1 Tomat"                                     ],
+      "Sup Daging Bebek"    => ["2 Daging Ayam", "2 Kayu", "1 Air", "2 Bawang"],
+}

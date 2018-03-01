@@ -1,0 +1,17 @@
+[
+	"Tempe",
+	"Tomat",
+	"Bawang Putih",
+	"Bawang Merah",
+	"Kunyit",
+	"Manisan",
+	"Kue",
+	"Kopi",
+	"Gula",
+	"Air",
+	"Tepung",
+	"Minyak",
+	"Jagung",
+	"Beras",
+	"Madu"
+]

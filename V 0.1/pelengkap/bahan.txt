@@ -1,0 +1,28 @@
+Ikan
+Kayu
+Botol Kosong
+Bulu
+Potongan Besi
+Kristal Air
+Pancing
+Daging Ayam
+Daging Kijang
+Daging Babi
+Daging Bebek
+Daging Kelinci
+Daging Sapi
+Kayu Bakar
+Air
+Bawang
+Tomat
+Jamur
+Daging Ayam Bakar
+Daging Kijang Bakar
+Daging Babi Bakar
+Daging Bebek Bakar
+Daging Kelinci Bakar
+Daging Sapi Bakar
+Sup Daging Ayam
+Sup Daging Sapi
+Sup Jamur
+Sup Daging Bebek
